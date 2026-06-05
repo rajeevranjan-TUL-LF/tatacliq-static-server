@@ -1,0 +1,49 @@
+{
+  "name": "Static JSON Server",
+  "version": "1.0.0",
+  "description": "Sample JSON file for testing GitHub Pages deployment",
+  "timestamp": "2026-06-05T00:00:00Z",
+  "status": "active",
+  "items": [
+    {
+      "id": 1,
+      "title": "Getting Started",
+      "description": "Learn how to add your JSON data to this server",
+      "category": "guide",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "title": "API Documentation",
+      "description": "Documentation for using this JSON API",
+      "category": "documentation",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "title": "Best Practices",
+      "description": "Best practices for hosting JSON data",
+      "category": "guide",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "title": "Deployment Guide",
+      "description": "How automatic deployment works",
+      "category": "tutorial",
+      "status": "active"
+    }
+  ],
+  "metadata": {
+    "totalItems": 4,
+    "activeItems": 4,
+    "archivedItems": 0,
+    "categories": ["guide", "documentation", "tutorial"],
+    "lastUpdated": "2026-06-05T00:00:00Z"
+  },
+  "apiEndpoints": {
+    "base": "/tatacliq-static-server/data/",
+    "sample": "/tatacliq-static-server/data/sample.json",
+    "dataDirectory": "/tatacliq-static-server/data/"
+  }
+}
