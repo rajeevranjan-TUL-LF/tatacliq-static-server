@@ -1,0 +1,37 @@
+{
+  "title": "Product Specifications",
+  "productSpecifications": [
+    {
+      "title": "Highlights",
+      "type": "HTML",
+      "details": "",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Product Features",
+      "type": "KEY_VALUE",
+      "details": [
+        {
+          "key": "Net Quantity",
+          "value": "107"
+        },
+        {
+          "key": "Feature",
+          "value": "Weight and Price shown may change slightly post product is manufactured as this is made to order"
+        }
+      ],
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Product Description",
+      "type": "HTML",
+      "details": "<h3>High-rise, 28\" length</h3><p>A high-rise waistband keeps you covered during forward folds and downward dogs.</p>",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Material And Care",
+      "type": "HTML",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    }
+  ]
+}
