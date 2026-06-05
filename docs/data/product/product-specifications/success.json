@@ -1,0 +1,38 @@
+{
+  "title": "Product Specifications",
+  "productSpecifications": [
+    {
+      "title": "Highlights",
+      "type": "HTML",
+      "details": "\u003Ch3\u003EFit for comfort\u003C/h3\u003E\u003Cp\u003EA soft, wide waistband offers comfortable coverage that won't dig in.\u003C/p\u003E",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Product Features",
+      "type": "KEY_VALUE",
+      "details": [
+        {
+          "key": "Net Quantity",
+          "value": "107"
+        },
+        {
+          "key": "Feature",
+          "value": "Weight and Price shown may change slightly post product is manufactured as this is made to order"
+        }
+      ],
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Product Description",
+      "type": "HTML",
+      "details": "\u003Ch3\u003EHigh-rise, 28\" length\u003C/h3\u003E\u003Cp\u003EA high-rise waistband keeps you covered during forward folds and downward dogs.\u003C/p\u003E",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    },
+    {
+      "title": "Material And Care",
+      "type": "HTML",
+      "details": "\u003Ch3\u003EMaterials\u003C/h3\u003E\u003Cp\u003EBody: 81% Nylon, 19% Lycra Elastane\u003C/p\u003E\u003Ch3\u003ECare\u003C/h3\u003E\u003Cul\u003E\u003Cli\u003EMachine Wash Cold\u003C/li\u003E\u003Cli\u003EDo Not Bleach\u003C/li\u003E\u003Cli\u003ETumble Dry Low\u003C/li\u003E\u003C/ul\u003E",
+      "iconURL": "https://assets.tatacliq.com/medias/images/47733274574878.png"
+    }
+  ]
+}
